@@ -27,7 +27,7 @@ relevant to revenue earning for the AirBnb listers. There are multiple embedded 
 In this project I used two Jupyter notebook for each datasets. I did indepth data cleaning, feature engineering, natural language processing and  machine learning and data engineering skills as a data scientist.This project will show off my python software skills, including my ability to write clean, organized code!
 
 Here is a single screenshot comes out as a product of our web-app.
-![Screenshot of NY location blocks](App_screenshot.jpg)
+![Screenshot of NY location blocks](NY_City_Blocks.png)
 
 ## File Description
 ~~~~~~~
@@ -57,30 +57,19 @@ Here is a single screenshot comes out as a product of our web-app.
 
 ### Description of key files:
 ~~~~~~~~
-1. disaster_message.csv: Includes original disaster messages.
-2. disaster_categories.csv: Includes target-labels of the disaster messages.
-3. process_data.py: Runs the ETL pipeline to process data from both disaster_message.csv and disaster_categories.csv files and load them into an SQLite database named DisasterResponse.db.
-4. DisasterResponse.db: The SQLite database contains file named 'messages' with disaster related messages and their categories.
-5. train_classifier.py: Runs the ML pipeline to classify the messages and optimize model using GridSearchCV and print the model's evaluation with a classifcation report. It will then save the ML processes to a classifier.pk file to use in the run.py app.
-6. run.py: Script runs the web app for the users.
+1. Par_1_NY_Airbnb_listings_analysis: Includes original NY Airbnb files with ML processing.
+2. Part_2_Questions_NY_listings_in_Details: Includes Quesionaires for revenue analysi with detail visual.
+3. process_data.py: 
+
+4. Par_1_LA_Airbnb_listings_analysis: Includes original LA AirBnb files with ML processing.
+5. Part_2_Questions_LA_listings_in_Details: Analyses detail revenue related questionss.
+6. run.py: 
 ~~~~~~~~~
-## Instructions running app:
+## Instructions running python programs:
+I uploaded all the files needed to run these python-notebook files. One will need to download all the files for running these Jupyter notebooks.
 
-1. Run the following commands in the project's root directory to set up your database and model.
 
-    - To run ETL pipeline that cleans data and stores in database
-        `python data/process_data.py data/disaster_messages.csv data/disaster_categories.csv data/DisasterResponse.db`
-        
-    - To run ML pipeline that trains classifier (RandomForest with Tfidf Vectorizer) and saves to a pickle file
-        `python models/train_classifier.py data/DisasterResponse.db models/classifier.pkl`
 
-2. In the app directory, run the following command to run the web app.
-    `python run.py`
-
-3. Go to http://localhost:3001 to view the web app
-
-## Installations
-punkt, wordne, stopwords, Nltk, re, SQLAlchemy
 
 ## Licensing, Authors, Acknowledgements
 Udacity must get the credit as the true provider of starter programming codes along with data set provided by [Figure Eight](https://www.figure-eight.com/) containing real messages that were sent during disaster events.

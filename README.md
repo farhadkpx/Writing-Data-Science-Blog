@@ -20,13 +20,14 @@ Communicate your business insights:
 - Create a blog post to share your questions and insights with a non-technical audience
 - Your deliverables will be a Github repo and a blog post.
 
-## Our task
-In this project we'll be applying our  natural language processing,  machine learning and data engineering skills as a data scientist.This project will show off our software skills, including our ability to create basic data pipelines and write clean, organized code!
+## What I did
+I've chosen two data sets from AirBnb sites location is greater Los Angeles CA and New York city area. I tried go as much deeper as possible with 5 sets of main questions all
+relevant to revenue earning for the AirBnb listers. There are multiple embedded questions were included for detail clarity.
 
-Our project will include a Flask web app where an emergency worker can input a new message and get classification results in several categories. The web app will also display visualizations of the data. 
+In this project I used two Jupyter notebook for each datasets. I did indepth data cleaning, feature engineering, natural language processing and  machine learning and data engineering skills as a data scientist.This project will show off my python software skills, including my ability to write clean, organized code!
 
 Here is a single screenshot comes out as a product of our web-app.
-![Screenshot of the Web App](App_screenshot.jpg)
+![Screenshot of NY location blocks](App_screenshot.jpg)
 
 ## File Description
 ~~~~~~~

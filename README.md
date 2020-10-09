@@ -1,17 +1,24 @@
-# Writing-Data-Science-Blog
-A detail complexities of Jupyter notebook files and more all converges to data science blog post presentation.
+# Writing-Data-Science-Blog Project
+A detail complexities of Jupyter notebook files and more all converges to data science blog post presentation.For this project, we will pick a dataset. Inspired by Robert, there are a few public datasets from [AirBnB] available (http://insideairbnb.com/get-the-data.html), but we may also choose a dataset similar to what was used in the lessons, or an entirely different dataset. Using chosen dataset, we will choose 3 questions you aspire to answer from the data.
 
-## Disaster Response Pipeline Project
 
-## Project portrayal
-In this project, we will build a Machine Learning(ML) model with all necessary steps sequenced in a pipeline to classify real messages sent during real natural disasters. These messages can be categorized as medical help, aid related, search and rescue type etc. For this project we have altogether 36 messages categories. The ML pipeline progression will synchronize all programming steps to categorize those messages in such a way that after processing, we can send those specific messages to appropriate disaster relief agencies.
 
-This project will involve these programmatic synchronization:
-- basic ETL that loads, categorizes, merges, cleans and Stores data in a SQLite database.
-- Machine Learning model pipeline builds a text processing system then trains and tunes the model using GridSearchCV hyper-parametarization.
-- Flask Web App visualizes classified messages result.
+## Key Steps for Project portrayal
+1) Pick a dataset.
+2) Pose at least three questions related to business or real-world applications of how the data could be used.
+3) Create a Jupyter Notebook, using any associated packages you'd like, to:
 
-This is a multi-label classification task, a message can belong to one or more classification categories. We will be working with a data set provided by [Figure Eight](https://www.figure-eight.com/) containing real messages that were sent during disaster events.
+Prepare data:
+- Gather necessary data to answer your questions
+- Handle categorical and missing data
+- Provide insight into the methods you chose and why you chose them
+- Analyze, Model, and Visualize
+- Provide a clear connection between your business questions and how the data answers them.
+
+Communicate your business insights:
+- Create a Github repository to share your code and data wrangling/modeling techniques, with a technical audience in mind
+- Create a blog post to share your questions and insights with a non-technical audience
+- Your deliverables will be a Github repo and a blog post.
 
 ## Our task
 In this project we'll be applying our  natural language processing,  machine learning and data engineering skills as a data scientist.This project will show off our software skills, including our ability to create basic data pipelines and write clean, organized code!

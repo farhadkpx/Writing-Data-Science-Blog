@@ -18,13 +18,13 @@ A detail complexities of Jupyter notebook, csv, jpeg/png files all are accumulat
 - Create a blog post to share your questions and insights with a non-technical audience
 - Your deliverables will be a Github repo and a blog post.
 
-## What I did
-I've chosen two data sets from AirBnb sites location is greater Los Angeles CA and New York city area. I tried go as much deeper as possible with 5 sets of main questions all
-relevant to revenue earning for the AirBnb listers. There are multiple embedded questions were included for detail clarity.
+### What I did
+I've chosen two data sets from AirBnb sites location is greater Los Angeles CA and New York city area. I tried go as much deeper as possible with 5 sets of main questions all relevant to revenue earning for the AirBnb listers. There are multiple embedded questions were included for detail clarity.
 
-In this project I used two Jupyter notebook for each datasets. I did indepth data cleaning, feature engineering, natural language processing and  machine learning and data engineering skills as a data scientist.This project will show off my python software skills, including my ability to write clean, organized code!
+In this project I used two Jupyter notebooks for both LA and NY City datasets. I did indepth data cleaning, feature engineering, natural language processing and  machine learning and data engineering skills as a data scientist.This project will show off my python software skills, including my ability to write clean, organized code!
 
 Here is a single screenshot comes out as a product of our web-app.
+![Screenshot of NY location blocks](NY_City_Blocks.png)
 ![Screenshot of NY location blocks](NY_City_Blocks.png)
 
 ## File Description

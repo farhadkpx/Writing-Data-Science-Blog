@@ -1,21 +1,19 @@
 # Writing-Data-Science-Blog Project
-A detail complexities of Jupyter notebook files and more all converges to data science blog post presentation.For this project, we will pick a dataset. Inspired by Robert, there are a few public datasets from [AirBnB] available (http://insideairbnb.com/get-the-data.html), but we may also choose a dataset similar to what was used in the lessons, or an entirely different dataset. Using chosen dataset, we will choose 3 questions you aspire to answer from the data.
-
-
+A detail complexities of Jupyter notebook, csv, jpeg/png files all are accumulated on need based to write a final product of blogpost for data science project.For this project, we will pick multiple set of datasets available from [AirBnB](http://insideairbnb.com/get-the-data.html). In pursuing to write this blogplost I had to lot indepth seraching and analyses for a final product.
 
 ## Key Steps for Project portrayal
 1) Pick a dataset.
 2) Pose at least three questions related to business or real-world applications of how the data could be used.
 3) Create a Jupyter Notebook, using any associated packages you'd like, to:
 
-Prepare data:
+### Prepare data:
 - Gather necessary data to answer your questions
 - Handle categorical and missing data
 - Provide insight into the methods you chose and why you chose them
 - Analyze, Model, and Visualize
 - Provide a clear connection between your business questions and how the data answers them.
 
-Communicate your business insights:
+### Communicate your business insights:
 - Create a Github repository to share your code and data wrangling/modeling techniques, with a technical audience in mind
 - Create a blog post to share your questions and insights with a non-technical audience
 - Your deliverables will be a Github repo and a blog post.

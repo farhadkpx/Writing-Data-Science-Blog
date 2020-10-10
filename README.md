@@ -1,7 +1,7 @@
 # Writing-Data-Science-Blog Project
 A detail complexities of Jupyter notebook, csv, jpeg/png files all are accumulated on need based to write a final product of blogpost for data science project.For this project, we will pick multiple set of datasets available from [AirBnB](http://insideairbnb.com/get-the-data.html). In pursuing to write this blogplost I had to lot indepth seraching and analyses for a final product.
 
-## Key Steps for Project portrayal
+## `Key Steps for Project portrayal`
 1) Pick a dataset.
 2) Pose at least three questions related to business or real-world applications of how the data could be used.
 3) Create a Jupyter Notebook, using any associated packages you'd like, to:

@@ -24,7 +24,7 @@ I've chosen two data sets from AirBnb sites location is greater Los Angeles CA a
 In this project I used two Jupyter notebooks for both LA and NY City datasets. I did indepth data cleaning, feature engineering, natural language processing and  machine learning and data engineering skills as a data scientist.This project will show off my python software skills, including my ability to write clean, organized code!
 
 Here is a single screenshot comes out as a product of our web-app.
-![alt-text-1](NY_City_Blocks.png "title-1")  ![alt-text-2](NY_City_Blocks.png "title-2")
+![alt-text-1](NY_City_Blocks.png "title-1")  ![alt-text-2](La_neighbourhood_listings.png "title-2")
 
 ## File Description
 ~~~~~~~

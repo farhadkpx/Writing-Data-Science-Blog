@@ -50,7 +50,14 @@ Here is a single screenshot comes out as a product of our web-app.
 
 ~~~~~~~
 
-### Project submission link: [my project on Github](https://github.com/farhadkpx/Disaster_Response_Pipeline/)
+### Project submission link: [my project on Github](https://github.com/farhadkpx/Writing-Data-Science-Blog)
+### questionnaires:
+- Where is the existing AirBnb market trends in LA and NY City?
+- What types of properties are making headway in attention and revenue?
+- How much in average host/listers’ make in revenue earning?
+- What time frame is conducive to maximizing revenue?
+- Is geolocation a factor in potential earning?
+- How should you advertise yourself in virtual space?
 
 ### Description of key files:
 ~~~~~~~~

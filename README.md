@@ -26,29 +26,6 @@ In this project I used two Jupyter notebooks for both LA and NY City datasets. I
 Here is a single screenshot comes out as a product of our web-app.
 ![alt-text-1](NY_City_Blocks.png "title-1")  ![alt-text-2](La_neighbourhood_listings.png "title-2")
 
-## File Description
-~~~~~~~
-        disaster_response_pipeline (repository)
-              - README.md
-              - App_screenshot.jpg    
-                                   | app | folder 1 |
-                                         |- templates | sub folder 2 |- go.html |- master.html |
-                                          - Message_processing_screenshot_01.jpg
-                                          - Message_processing_screenshot_02.jpg
-                                          - app_screenshot_02.jpg
-                                          - run.py 
-                                          
-                                         | data | folder 3 |
-                                                  - disaster_message.csv
-                                                  - disaster_categories.csv
-                                                  - ETL Pipeline Preparation.ipynb
-                                                  - process_data.py
-                                                  
-                                         | ML models | folder 4 |
-                                         - ML Pipeline Processes.ipynb
-                                         - train_classifier.py
-
-~~~~~~~
 
 ### Project submission link: [my project on Github](https://github.com/farhadkpx/Writing-Data-Science-Blog)
 ### questionnaires:
@@ -71,16 +48,14 @@ Los Angeles files
 5. Part_2_Questions_LA_listings_in_Details: Analyses detail revenue related questionss.
 6. CSV files: LA_listings, LA_reviews, LA_calendar, neighbourhoods.geojson
 ~~~~~~~~~
-## Instructions running python programs:
+
+### Instructions running python programs:
 I uploaded all the files needed to run these python-notebook files. One will need to download all the files for running these Jupyter notebooks.
 I couldn't upload the needed csv files because the size of those file are too big. If intereseted go in AirBnb site below to download all datasets.
 
-
-
-## Licensing, Acknowledgements
+### Licensing, Acknowledgements
 AirBnb must get the credit as the true provider of all the data set at[AirBnb](http://insideairbnb.com/get-the-data.html). I did great help from 
 for [jingwen-z](https://github.com/jingwen-z/python-playground/blob/master/python_for_data_analysis/geovisualization/folium_demo.ipynb) mapping.
-
 
 ### Student Author: Md Ahmed
 

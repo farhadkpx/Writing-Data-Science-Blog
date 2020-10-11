@@ -61,13 +61,15 @@ Here is a single screenshot comes out as a product of our web-app.
 
 ### Description of key files:
 ~~~~~~~~
+New York City files
 1. Par_1_NY_Airbnb_listings_analysis: Includes original NY Airbnb files with ML processing.
 2. Part_2_Questions_NY_listings_in_Details: Includes Quesionaires for revenue analysi with detail visual.
-3. process_data.py: 
+3. CSV files: NY_listings, NY_reviews, NY_calendar, neighbourhoods.geojson
 
+Los Angeles files
 4. Par_1_LA_Airbnb_listings_analysis: Includes original LA AirBnb files with ML processing.
 5. Part_2_Questions_LA_listings_in_Details: Analyses detail revenue related questionss.
-6. run.py: 
+6. CSV files: LA_listings, LA_reviews, LA_calendar, neighbourhoods.geojson
 ~~~~~~~~~
 ## Instructions running python programs:
 I uploaded all the files needed to run these python-notebook files. One will need to download all the files for running these Jupyter notebooks.
@@ -75,8 +77,9 @@ I uploaded all the files needed to run these python-notebook files. One will nee
 
 
 
-## Licensing, Authors, Acknowledgements
-Udacity must get the credit as the true provider of starter programming codes along with data set provided by [Figure Eight](https://www.figure-eight.com/) containing real messages that were sent during disaster events.
+## Licensing, Acknowledgements
+AirBnb must get the credit as the true provider of all the data set at[AirBnb](http://insideairbnb.com/get-the-data.html). I did great help from 
+for folium mapping.
 
-### Student: Md Ahmed
+### Student Author: Md Ahmed
 

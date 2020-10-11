@@ -18,18 +18,18 @@ A detail complexities of Jupyter notebook, csv, jpeg/png files all are accumulat
 - Create a blog post to share your questions and insights with a non-technical audience
 - Your deliverables will be a Github repo and a blog post.
 
-### What I did
+### Dataset preprocessing steps:
 I've chosen two data sets from AirBnb sites location is greater Los Angeles CA and New York city area. I tried go as much deeper as possible with 5 sets of main questions all relevant to revenue earning for the AirBnb listers. There are multiple embedded questions were included for detail clarity.
 
 In this project I used two Jupyter notebooks for both LA and NY City datasets. I did indepth data cleaning, feature engineering, natural language processing and  machine learning and data engineering skills as a data scientist.This project will show off my python software skills, including my ability to write clean, organized code!
 
 Here is a single screenshot comes out as a product of our web-app.
-New York City             |  Los Angeles City
+New York City              |  Los Angeles City
 :-------------------------:|:-------------------------:
 <img src="NY_City_Blocks.png" width="500"/> | <img src="LA_City_Blocks.png" width="550"/> 
 
+#### Project submission link: [my project on Github](https://github.com/farhadkpx/Writing-Data-Science-Blog)
 
-### Project submission link: [my project on Github](https://github.com/farhadkpx/Writing-Data-Science-Blog)
 ### questionnaires:
 - Where is the existing AirBnb market trends in LA and NY City?
 - What types of properties are making headway in attention and revenue?
@@ -51,13 +51,14 @@ Los Angeles files
 6. CSV files: LA_listings, LA_reviews, LA_calendar, neighbourhoods.geojson
 ~~~~~~~~~
 
-### Instructions running python programs:
-I uploaded all the files needed to run these python-notebook files. One will need to download all the files for running these Jupyter notebooks.
-I couldn't upload the needed csv files because the size of those file are too big. If intereseted go in AirBnb site below to download all datasets.
+### Instructions running Jupyter notebooks:
+I uploaded all the files needed to run these python-notebook files. You will need to download all the files for running these Jupyter notebooks.
+I couldn't upload the needed csv files because the size of those files are too big. If intereseted go in AirBnb site below to download all datasets.
 
 ### Licensing, Acknowledgements
-AirBnb must get the credit as the true provider of all the data set at[AirBnb](http://insideairbnb.com/get-the-data.html). I did great help from 
-for [jingwen-z](https://github.com/jingwen-z/python-playground/blob/master/python_for_data_analysis/geovisualization/folium_demo.ipynb) mapping.
+AirBnb must get the credit as the true provider of all the data set at[AirBnb](http://insideairbnb.com/get-the-data.html). I did get great help from 
+for [jingwen-z](https://github.com/jingwen-z/python-playground/blob/master/python_for_data_analysis/geovisualization/folium_demo.ipynb) mapping. It's lot of details, have time
+then keep reading. Sorry, for unwarranted mistakes.
 
 ### `Student Author: Md Ahmed`
 

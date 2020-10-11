@@ -2,11 +2,11 @@
 A detail complexities of Jupyter notebook, csv, jpeg/png files all are accumulated on need based to write a final product of blogpost for data science project.For this project, we will pick multiple set of datasets available from [AirBnB](http://insideairbnb.com/get-the-data.html). In pursuing to write this blogplost I had to lot indepth seraching and analyses for a final product.
 
 ### `Key Steps for Project`
-1) Pick a dataset.
+1) Pick all the needed datasets.
 2) Pose at least three questions related to business or real-world applications of how the data could be used.
 3) Create a Jupyter Notebook, using any associated packages you'd like, to:
 
-### Prepare data:
+### Prepare datasets:
 - Gather necessary data to answer your questions
 - Handle categorical and missing data
 - Provide insight into the methods you chose and why you chose them
@@ -23,7 +23,7 @@ I've chosen two data sets from AirBnb sites location is greater Los Angeles CA a
 
 In this project I used two Jupyter notebooks for both LA and NY City datasets. I did indepth data cleaning, feature engineering, natural language processing and  machine learning and data engineering skills as a data scientist.This project will show off my python software skills, including my ability to write clean, organized code!
 
-Here is a single screenshot comes out as a product of our web-app.
+Here are two screenshots came out as a product of running Jupyter notebooks.
 New York City              |  Los Angeles City
 :-------------------------:|:-------------------------:
 <img src="NY_City_Blocks.png" width="500"/> | <img src="LA_City_Blocks.png" width="550"/> 

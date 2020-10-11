@@ -26,7 +26,7 @@ In this project I used two Jupyter notebooks for both LA and NY City datasets. I
 Here is a single screenshot comes out as a product of our web-app.
 New York City             |  Los Angeles City
 :-------------------------:|:-------------------------:
-<img src="NY_City_Blocks.png" width="450"/> | <img src="LA_City_Blocks.png" width="500"/> 
+
 
 
 ### Project submission link: [my project on Github](https://github.com/farhadkpx/Writing-Data-Science-Blog)

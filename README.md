@@ -1,7 +1,7 @@
-# Writing-Data-Science-Blog-post Project
+# `Writing-Data-Science-Blog-post Project`
 A detail complexities of Jupyter notebook, csv, jpeg/png files all are accumulated on need based to write a final product of blogpost for data science project.For this project, we will pick multiple set of datasets available from [AirBnB](http://insideairbnb.com/get-the-data.html). In pursuing to write this blogplost I had to lot indepth seraching and analyses for a final product.
 
-## `Key Steps for Project`
+### `Key Steps for Project`
 1) Pick a dataset.
 2) Pose at least three questions related to business or real-world applications of how the data could be used.
 3) Create a Jupyter Notebook, using any associated packages you'd like, to:
@@ -59,5 +59,5 @@ I couldn't upload the needed csv files because the size of those file are too bi
 AirBnb must get the credit as the true provider of all the data set at[AirBnb](http://insideairbnb.com/get-the-data.html). I did great help from 
 for [jingwen-z](https://github.com/jingwen-z/python-playground/blob/master/python_for_data_analysis/geovisualization/folium_demo.ipynb) mapping.
 
-### Student Author: Md Ahmed
+### `Student Author: Md Ahmed`
 

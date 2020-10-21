@@ -1,17 +1,17 @@
 # `Writing-Data-Science-Blog-post Project`
-A detail complexities of Jupyter notebook, csv, jpeg/png files all are accumulated on need based to write a final product of blogpost for data science project.For this project, we will pick multiple set of datasets available from [AirBnB](http://insideairbnb.com/get-the-data.html). In pursuing to write this blogplost I had to lot indepth seraching and analyses for a final product.
+A detail complexities of Jupyter notebook, csv, jpeg/png and geojson files all are accumulated as needed to write a final product of blogpost for data science project.For this project, we will pick multiple set of datasets available from [AirBnB](http://insideairbnb.com/get-the-data.html). In progression writing this blogplost I had to investigate a lot of complicated seraching and analyses for this final blog-post presentation.
 
 ### `Key Steps for Project`
 1) Pick all the needed datasets.
 2) Pose at least three questions related to business or real-world applications of how the data could be used.
-3) Create a Jupyter Notebook, using any associated packages you'd like, to:
+3) Create multiple Python Jupyter Notebooks and infusing statistical analysis in support of my findings.
 
 ### Prepare datasets:
 - Gather necessary data to answer your questions
 - Handle categorical and missing data
-- Provide insight into the methods you chose and why you chose them
-- Analyze, Model, and Visualize
-- Provide a clear connection between your business questions and how the data answers them.
+- Provide insight into the methods I chose and how I chose them
+- Analyze, Model, and Visualize key findings
+- Provide a clear connection between business questions and how the data answers supports them.
 
 ### Communicate your business insights:
 - Create a Github repository to share your code and data wrangling/modeling techniques, with a technical audience in mind
@@ -54,6 +54,7 @@ Los Angeles files
 ### Instructions running Jupyter notebooks:
 I uploaded 4 python-notebook files. You will need to download some package like geopandas, folium and other needed packages to see the detail folium maps.
 If intereseted go to AirBnb site below to download all datasets. So you will need altogether 6 csv files 2 geojson files to run both jupyter notebook decisively.
+I liked the folium map a lot but run thoes codes you will geopandas and folium package to download.
 
 ### Licensing, Acknowledgements
 AirBnb must get the credit as the true provider of all the data set at[AirBnb](http://insideairbnb.com/get-the-data.html). I did get great help from 

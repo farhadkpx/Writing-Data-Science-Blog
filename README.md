@@ -52,8 +52,8 @@ Los Angeles files
 ~~~~~~~~~
 
 ### Instructions running Jupyter notebooks:
-I uploaded all the files needed to run these python-notebook files. You will need to download all the files for running these Jupyter notebooks.
-I couldn't upload the needed csv files because the size of those files are too big. If intereseted go in AirBnb site below to download all datasets.
+I uploaded 4 python-notebook files. You will need to download some package like geopandas, folium and other needed packages to see the detail folium maps.
+If intereseted go to AirBnb site below to download all datasets. So you will need altogether 6 csv files 2 geojson files to run both jupyter notebook decisively.
 
 ### Licensing, Acknowledgements
 AirBnb must get the credit as the true provider of all the data set at[AirBnb](http://insideairbnb.com/get-the-data.html). I did get great help from 

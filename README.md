@@ -1,5 +1,5 @@
 # `Writing-Data-Science-Blog-post Project`
-A detail complexities of Jupyter notebook, csv, jpeg/png and geojson files all are accumulated as needed to write a final product of blogpost for data science project.For this project, we will pick multiple set of datasets available from [AirBnB](http://insideairbnb.com/get-the-data.html). In progression writing this blogplost I had to investigate a lot of complicated seraching and analyses for this final blog-post presentation. The analytical blog-post presentation for non-technical readers is available with this link [Medium](.....)
+A detail complexities of Jupyter notebook, csv, jpeg/png and geojson files all are accumulated as needed to write a final product of blogpost for data science project.For this project, we will pick multiple set of datasets available from [AirBnB](http://insideairbnb.com/get-the-data.html). In progression writing this blogplost I had to investigate a lot of complicated seraching and analyses for this final blog-post presentation. The analytical blog-post presentation for non-technical readers is available with this link [Medium](https://freda31k.medium.com/airbnb-earnings-a-contingent-story-with-data-analyses-9b91281a73f1)
 
 ### `Key Steps for Project`
 1) Pick all the needed datasets.
